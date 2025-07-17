@@ -8,6 +8,7 @@
 </p>
 
 
+
 ---
 
 ### 🧠 About Me
@@ -41,14 +42,7 @@
 
 
 
-### 🐍 Contribution Snake
 
-<!-- Requires GitHub Action to render -->
-<p align="center">
-  <img src="https://github.com/khaledghazy/khaledghazy/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
