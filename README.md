@@ -3,9 +3,10 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Backend+.NET;Frontend+Angular;Software Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Backend+.NET;Frontend+Angular;Software+Architecture" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
@@ -38,15 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledghazy&show_icons=true&theme=tokyonight" alt="Khaled's GitHub stats" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
