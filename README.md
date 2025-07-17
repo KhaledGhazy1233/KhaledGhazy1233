@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Backend+.NET;Frontend+Angular;Software%20Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Backend+.NET;Frontend+Angular;Software+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 - 🎓 I'm studying Computer Science in Egypt  
-- 🔭 I'm currently Junior Fullstack Developer (Frontend + Backend + DevOps)  
+- 🔭 I'm currently Junior Fullstack Developer (Frontend + Backend + SoftwareArchitecture)  
 - ⚙️ Technologies I work with: .NET, Angular, EF Core, SQL Server, DevOps  
 - 🌱 Always trying to build real projects that solve real problems
 
